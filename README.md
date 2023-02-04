@@ -9,4 +9,5 @@ The implementatio of the Methods Section is in the Python Notebook.
 
 To generate the confusion matrices presented in the Result Section of the paper please run all the code without changes and fill in the desired parameters in the last cell. 
 
-
+We recommend runnning the code in Google Colab and importing the csv file, which is needed for a smaller dataset curated specifically for the tree model. 
+This dataset is a subset if the training set including only sentences with the most common sentence structure of premise being ('NOUN', 'ADP', 'PUNCT'), and hypothesis being ('NOUN', 'ADP', 'PUNCT'). 
