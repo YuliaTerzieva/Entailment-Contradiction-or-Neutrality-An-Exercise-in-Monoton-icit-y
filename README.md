@@ -11,3 +11,5 @@ To generate the confusion matrices presented in the Result Section of the paper 
 
 We recommend runnning the code in Google Colab and importing the csv file, which is needed for a smaller dataset curated specifically for the tree model. 
 This dataset is a subset of the training set including only sentences with the most common sentence structure of premise being ('NOUN', 'ADP', 'PUNCT'), and hypothesis being ('NOUN', 'ADP', 'PUNCT'). 
+
+NB : Data-preprocessing is facilitated thanks to Lasha Abzianidze -[GitHub](https://github.com/kovvalsky/assigntools)
